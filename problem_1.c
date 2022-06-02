@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main(void)
-{
+int main(void) {
     int i;
     int prime, val_one, val_second, sum = 0;
 
